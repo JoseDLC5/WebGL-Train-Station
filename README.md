@@ -1,6 +1,7 @@
 # WebGL-Train-Station
-Interactive train station scene coded fully in WebGL and GLSL.
+Interactive train station scene coded fully in WebGL, GLSL, and HTML.
 
+# Setup
 For security reasons most browsers will not allow the code to be run without being hosted by a server. 
 
 An easy way to host all of the files if you have VS-Code and Python installed on your computer is to run
