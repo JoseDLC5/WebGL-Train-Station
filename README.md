@@ -7,7 +7,7 @@ An easy way to host all of the files if you have VS-Code and Python installed on
 
 python -m http.server [PORT NUMBER]
 
-in the VS-Code terminal in the root folder of the project
+in the VS-Code terminal in the root folder of the project.
 
 The project will then be accessable through a browser at 
 http://localhost:[PORT NUMBER]/final/scene.html
