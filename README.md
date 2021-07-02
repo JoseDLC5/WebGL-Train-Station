@@ -1,5 +1,6 @@
 # WebGL-Train-Station
 Interactive train station scene coded fully in WebGL, GLSL, and HTML.
+Clicking on objects in the scene triggers animations.
 
 ## Setup
 For security reasons most browsers will not allow the code to be run without being hosted by a server. 
